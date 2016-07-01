@@ -1,0 +1,90 @@
+@import url('http://fonts.googleapis.com/css?family=Rationale');
+/* this import should be first line in css file else add as <link> in html*/
+.widget-clock.white-light .digital {
+  text-align: center;
+}
+.widget-clock.white-light .time {
+  font-family: 'Rationale', sans-serif;
+  font-size: 3.0em;
+  color: white;
+}
+
+.widget-clock.white-light .clock-face {
+  stroke: black;
+  fill: black;
+}
+.widget-clock.white-light .minor {
+  stroke: white;
+  stroke-width: 0.5;
+}
+.widget-clock.white-light .major {
+  stroke: white;
+  stroke-width: 0.5;
+}
+.widget-clock.white-light .hour {
+  stroke: white;
+  stroke-width: 1;
+}
+.widget-clock.white-light .minute {
+  stroke: white;
+  stroke-width: 0.75;
+}
+.widget-clock.white-light .second,
+.widget-clock.white-light .second-counterweight {
+  stroke: white;
+  stroke-width: 0.5;
+}
+.widget-clock.white-light .second-counterweight {
+  stroke-width: 1.5;
+}
+
+html, body {
+  transform: scale(1.0);
+  height: 90%;
+  background-color: black;
+  margin: auto;
+}
+
+#mainContainer {
+  overflow: hidden;
+  margin: 70px;
+  height: 100%;
+  width: auto;
+  max-height: 100%;
+}
+
+#clock {
+  width: 300px;
+  margin: auto;
+}
+
+#weather {
+  margin: auto;
+  margin-left: 310px;
+  color: white;
+}
+
+#feed {
+  overflow-y: scroll;
+  height: 40%;
+  /* The extra 2% is for not to see the scrollbar */
+  width: 102%;
+  color: white;
+  margin: auto;
+  margin-top: 50px;
+}
+
+#feed a{
+  color: white;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+  height: auto;
+}
+
+.floating-box {
+  display: inline-block;
+  margin: 30px;
+}
