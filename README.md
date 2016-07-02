@@ -48,6 +48,7 @@ folders in your project.
 angular-seed changes this location through the `.bowerrc` file.  Putting it in the app folder makes
 it easier to serve the files by a webserver.*
 
+
 ### Run the Application
 
 We have preconfigured the project with a simple development web server.  The simplest way to start
