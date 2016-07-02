@@ -1,14 +1,6 @@
-# angular-seed — the seed for AngularJS apps
+# SmartMirror
 
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
-You can use it to quickly bootstrap your angular webapp projects and dev environment for these
-projects.
-
-The seed contains a sample AngularJS application and is preconfigured to install the Angular
-framework and a bunch of development and testing tools for instant web development gratification.
-
-The seed app doesn't do much, just shows how to wire two controllers and views together.
-
+This project is an application to make a simple webapp where I can connect a tablet to show an information about weather, time and relevant news for me.
 
 ## Getting Started
 
