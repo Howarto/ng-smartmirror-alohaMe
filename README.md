@@ -4,7 +4,7 @@ This project is an application to make a simple webapp where I can connect a tab
 
 ## Getting Started
 
-To get you started you can simply clone the angular-seed repository and install the dependencies:
+To get you started you can simply clone the repository and install the dependencies:
 
 ### Prerequisites
 
