@@ -85,4 +85,4 @@ somewhere they can be accessed by browsers.
 If your Angular app is talking to the backend server via xhr or other means, you need to figure
 out what is the best way to host the static files to comply with the same origin policy if
 applicable. Usually this is done by hosting the files by the backend server or through
-reverse-proxying the backend server(s) and webserver(s).
+reverse-proxying the backend server(s) and webserver(s). 
